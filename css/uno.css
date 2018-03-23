@@ -926,7 +926,7 @@ html {
 
 body {
 	font-family: "Raleway", sans-serif;
-	font-size: 1em;
+	font-size: 0.7em;
 	color: #666666; }
 
 ::selection {
@@ -968,19 +968,19 @@ h2 {
 	font-size: 2.2em; }
 
 h3 {
-	font-size: 1em; }
+	font-size: 0.7em; }
 
 h4 {
-	font-size: 1em; }
+	font-size: 0.7em; }
 
 h4 {
-	font-size: 1em; }
+	font-size: 0.7em; }
 
 h5 {
-	font-size: 1em; }
+	font-size: 0.7em; }
 
 p {
-	margin-bottom: 1.3em;
+	margin-bottom: 1em;
 	line-height: 0.em; }
 
 strong {
@@ -998,13 +998,13 @@ blockquote {
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
 	font-style: italic;
-	font-size: 1.3em;
+	font-size: 1em;
 	text-align: center; }
 	blockquote p:last-child {
 		margin-bottom: 0; }
 
 ol, ul {
-	margin: 0 0 1.3em 2.5em; }
+	margin: 0 0 1em 2.5em; }
 	ol li, ul li {
 		margin: 0 0 .2em 0;
 		line-height: 1.6em; }
